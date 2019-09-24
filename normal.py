@@ -12,7 +12,7 @@ for eachItem in range(len(userNumber)):
     if biggerNumber < thisNumber:
         biggerNumber = thisNumber
 print(biggerNumber)
-print("Задача 1 завершена")
+print("Задача 1 завершена ")
 
 # Задача 2
 
@@ -22,7 +22,7 @@ b = input("Ведите значение переменной b ")
 a, b = b, a
 print("Теперь переменная a = " + a)
 print("Теперь переменная b = " + b)
-print("Задача 2 завершена")
+print("Задача 2 завершена ")
 
 # Задача 3
 
@@ -41,4 +41,4 @@ elif D > 0:
     print("Второй корень = " + str(x2))
 else:
     print("Корней нет");
-print("Задача 3 завершена")
+print("Задача 3 завершена ")
